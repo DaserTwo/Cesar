@@ -1,0 +1,3 @@
+all:
+	@echo Compiling fcmp...
+	@g++ fcmp.cpp -o fcmp -std=c++2a
